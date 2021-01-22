@@ -1,0 +1,26 @@
+# github.com/davecgh/go-spew v1.1.1
+github.com/davecgh/go-spew/spew
+# github.com/hashicorp/go-syslog v1.0.0
+github.com/hashicorp/go-syslog
+# github.com/pmezard/go-difflib v1.0.0
+github.com/pmezard/go-difflib/difflib
+# github.com/rcrowley/go-metrics v0.0.0-20200313005456-10cdbea86bc0
+github.com/rcrowley/go-metrics
+# github.com/stretchr/testify v1.7.0
+github.com/stretchr/testify/assert
+# gopkg.in/natefinch/lumberjack.v2 v2.0.0
+gopkg.in/natefinch/lumberjack.v2
+# gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c
+gopkg.in/yaml.v3
+# mosn.io/api v0.0.0-20210113033009-f24f4e59b2bc => github.com/fdingiit/api v0.0.0-20210119063843-f5ac263a02c5
+mosn.io/api
+mosn.io/api/protocol/xprotocol
+mosn.io/api/types
+# mosn.io/pkg v0.0.0-20201228070559-80e9ae937bd5 => github.com/fdingiit/pkg v0.0.0-20210122082112-590c786ec073
+mosn.io/pkg/buffer
+mosn.io/pkg/context
+mosn.io/pkg/log
+mosn.io/pkg/protocol
+mosn.io/pkg/protocol/xprotocol
+mosn.io/pkg/utils
+mosn.io/pkg/variable
